@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS_Sincronizacion_Rabbit", "CQRS_Sincronizacion_Rabbit.csproj", "{C9830B88-D12E-4885-9254-66042CE3BD94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9830B88-D12E-4885-9254-66042CE3BD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9830B88-D12E-4885-9254-66042CE3BD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9830B88-D12E-4885-9254-66042CE3BD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9830B88-D12E-4885-9254-66042CE3BD94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {632B854F-12ED-455D-B216-2063974AF55A}
+	EndGlobalSection
+EndGlobal

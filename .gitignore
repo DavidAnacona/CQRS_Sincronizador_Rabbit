@@ -1,0 +1,63 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific Files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider IDE files
+.idea/
+
+# VS Code
+.vscode/
+
+# Visual Studio working directory
+.vs/
+
+# ASP.NET Scaffolding
+.scaffolding
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+*.dll
+*.exe
+
+# Database
+*.mdf
+*.ldf
+
+# Package Management
+node_modules/
+packages/
+
+# Security files
+*.pfx
+*.snk
+
+# Generated files
+*.g.cs
+*.g.i.cs
+*.designer.cs
+
+# IDE-specific files
+*.launchSettings.json
+
+# Others
+*.tmp
+*.bak
+*.swp
+*.patch
+
+# Lock files
+project.lock.json
+global.json
